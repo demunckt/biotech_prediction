@@ -36,6 +36,20 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# AWS Secrets - NEVER commit these
+.env
+credentials.csv
+aws_keys.txt
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Data files (we keep these in S3, not GitHub)
+data/
+*.csv
+*.parquet
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
