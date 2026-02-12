@@ -1,3 +1,5 @@
+Project learning purpose: upskilling on AWS SageMaker, BedRock & Lambda.
+
 🧬 End-to-End Biotech Drug Discovery Pipeline with Agentic AI
 (Note: Upload the image generated above to your repo and name it architecture_diagram.png)
 
