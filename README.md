@@ -1,4 +1,5 @@
 Project learning purpose: upskilling on AWS SageMaker, BedRock & Lambda.
+Data Source: Kaggle: https://www.kaggle.com/datasets/shahriarkabir/drug-discovery-virtual-screening-dataset
 
 🧬 End-to-End Biotech Drug Discovery Pipeline with Agentic AI
 (Note: Upload the image generated above to your repo and name it architecture_diagram.png)
